@@ -1,0 +1,69 @@
+<podcast xsi:noNamespaceSchemaLocation="esquema_podcast.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<posts>
+		<post titulo="Ciencia y Tecnología" fecha="2024-04-08">
+			<autor>
+				<nombre>Administrador</nombre>
+				<avatar>profile.jpg</avatar>
+			</autor>
+			<introduccion>Cocinando al aire libre</introduccion>
+			<descripcion>Crea un subtitulo para la entrada del blog que resuma dicha publicación en un par de oraciones, e invite a tu audiencia a continuar...</descripcion>
+			<tiempo_lectura>2</tiempo_lectura>
+			<num_visualizaciones>3</num_visualizaciones>
+			<num_comentarios>5</num_comentarios>
+			<num_megusta>5</num_megusta>
+			<imagen>tarj.avif</imagen>
+		</post>
+		<post titulo="Historias de Viaje" fecha="2024-04-07">
+			<autor>
+				<nombre>Pablo Martinez</nombre>
+				<avatar>profile.jpg</avatar>
+			</autor>
+			<introduccion>Los destinos más requeridos del año</introduccion>
+			<descripcion>Crea un subtitulo para la entrada del blog que resuma dicha publicación en un par de oraciones, e invite a tu audiencia a continuar...</descripcion>
+			<tiempo_lectura>3</tiempo_lectura>
+			<num_visualizaciones>2</num_visualizaciones>
+			<num_comentarios>6</num_comentarios>
+			<num_megusta>2</num_megusta>
+			<imagen>tarj2.jpg</imagen>
+		</post>
+		<post titulo="Emprendimiento y Negocios" fecha="2024-04-06">
+			<autor>
+				<nombre>Carlos</nombre>
+				<avatar>profile.jpg</avatar>
+			</autor>
+			<introduccion>Consejos para planear un viaje de ruta</introduccion>
+			<descripcion>Crea un subtitulo para la entrada del blog que resuma dicha publicación en un par de oraciones, e invite a tu audiencia a continuar...</descripcion>
+			<tiempo_lectura>4</tiempo_lectura>
+			<num_visualizaciones>1</num_visualizaciones>
+			<num_comentarios>9</num_comentarios>
+			<num_megusta>7</num_megusta>
+			<imagen>tarj3.jpg</imagen>
+		</post>
+		<post titulo="Misterios del Universo" fecha="2024-04-05">
+			<autor>
+				<nombre>Laura</nombre>
+				<avatar>profile.jpg</avatar>
+			</autor>
+			<introduccion>Exploramos los fenómenos fascinantes</introduccion>
+			<descripcion>Crea un subtitulo para la entrada del blog que resuma dicha publicación en un par de oraciones, e invite a tu audiencia a continuar...</descripcion>
+			<tiempo_lectura>1</tiempo_lectura>
+			<num_visualizaciones>8</num_visualizaciones>
+			<num_comentarios>1</num_comentarios>
+			<num_megusta>2</num_megusta>
+			<imagen>tarj4.jpg</imagen>
+		</post>
+		<post titulo="Bienestar y Salud Mental" fecha="2024-04-04">
+			<autor>
+				<nombre>Elena</nombre>
+				<avatar>profile.jpg</avatar>
+			</autor>
+			<introduccion>Los mejores festivales del mundo</introduccion>
+			<descripcion>Crea un subtitulo para la entrada del blog que resuma dicha publicación en un par de oraciones, e invite a tu audiencia a continuar...</descripcion>
+			<tiempo_lectura>8</tiempo_lectura>
+			<num_visualizaciones>0</num_visualizaciones>
+			<num_comentarios>0</num_comentarios>
+			<num_megusta>0</num_megusta>
+			<imagen>tarj.avif</imagen>
+		</post>
+	</posts>
+</podcast>

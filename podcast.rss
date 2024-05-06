@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+    <channel>
+        <title>Nomada en el camino</title>
+        <link>index.html</link>
+        <description>Muchas cosas</description>
+        <item>
+            <title>Ciencia y Tecnología</title>
+            <link>index.html</link>
+            <description>En este episodio, discutimos los últimos avances en inteligencia artificial y su potencial para transformar diversas industrias.</description>
+            <enclosure url="audios/saludo.mp3" length="335913" type="audio/mp3"/>
+        </item>
+        <item>
+            <title>Historias de Viaje</title>
+            <link>index.html</link>
+            <description>En este episodio, escuchamos la increíble historia de un viajero solitario que recorrió Asia en bicicleta durante un año.</description>
+            <enclosure url="audios/saludo.mp3" length="335913" type="audio/mp3"/>
+        </item>
+        <item>
+            <title>Emprendimiento y Negocios</title>
+            <link>index.html</link>
+            <description>En este episodio, entrevistamos a un empresario que pasó de tener una pequeña startup a liderar una empresa internacionalmente reconocida.</description>
+            <enclosure url="audios/saludo.mp3" length="335913" type="audio/mp3"/>
+        </item>
+        <item>
+            <title>Misterios del Universo</title>
+            <link>index.html</link>
+            <description>En este episodio, discutimos la posibilidad de vida extraterrestre en otros planetas y las misiones espaciales en busca de señales de vida.</description>
+            <enclosure url="audios/saludo.mp3" length="335913" type="audio/mp3"/>
+        </item>
+        <item>
+            <title>Bienestar y Salud Mental</title>
+            <link>index.html</link>
+            <description>En este episodio, hablamos sobre la importancia del autocuidado y compartimos técnicas de manejo del estrés para mejorar tu bienestar emocional.</description>
+            <enclosure url="audios/saludo.mp3" length="335913" type="audio/mp3"/>
+        </item>
+    </channel>
+</rss>

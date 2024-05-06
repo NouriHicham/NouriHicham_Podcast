@@ -103,15 +103,20 @@ header{
     display: flex;
     align-items: center;
     padding-left: 10px;
+    
     h3{
        margin: 0; 
        font-family: "Roboto", sans-serif;
        padding-bottom: 5px;
        color: #454644;
+       width: 120px;
+       white-space: nowrap;
+       text-overflow: ellipsis;
     }
 
     h4{
         margin: 0;
+
         font-family: "Roboto", sans-serif;
         padding-bottom: 10px;
         color: #454644;
@@ -157,7 +162,7 @@ header{
 }
 
 .ultTarj span:last-child{
-    margin-left: 430px;
+    margin-left: 400px;
 }
 
 .fa-heart{
